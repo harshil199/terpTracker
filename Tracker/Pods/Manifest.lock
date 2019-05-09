@@ -1,0 +1,30 @@
+PODS:
+  - Charts (3.2.1):
+    - Charts/Core (= 3.2.1)
+  - Charts/Core (3.2.1)
+  - DropDown (2.3.12)
+  - JKCalendar (1.1.0):
+    - JKInfinitePageView (~> 1.1.0)
+  - JKInfinitePageView (1.1.0)
+
+DEPENDENCIES:
+  - Charts
+  - DropDown
+  - JKCalendar
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Charts
+    - DropDown
+    - JKCalendar
+    - JKInfinitePageView
+
+SPEC CHECKSUMS:
+  Charts: f122fb70b19847fa5817d018b77d6c5a2296ab25
+  DropDown: 0bcc278799ec11a3d34ce1aac9367fbbaf5423d9
+  JKCalendar: ccbbbc982417d6b3f31dd57827eaf0ba39ae3ede
+  JKInfinitePageView: 30c9e47e0e75067f9be046e5874edc7f4e7d4dc0
+
+PODFILE CHECKSUM: 65c1d890cc20811eaf0eb74f54bdb3c3c2812184
+
+COCOAPODS: 1.6.1
